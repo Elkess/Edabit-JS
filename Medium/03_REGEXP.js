@@ -1,4 +1,4 @@
 // https://edabit.com/challenge/bAqxpvYmDuuvz4LQz
 // RegEx Exercise: An empty string
 
-// const REGEXP = /* Write your expression here */
+const REGEXP = /^$/
