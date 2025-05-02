@@ -1,5 +1,5 @@
 // https://edabit.com/challenge/b7iHQDw72zzkmgCun
-// Number of Boomerangs
+//  
 
 let arr = [9, 5, 9, 5, 1, 1, 1];
 arr = [3, 7, 3, 2, 1, 5, 1, 2, 2, -2, 2];
