@@ -1,7 +1,7 @@
 // https://edabit.com/challenge/MEZtqvEeMbGg2YKtt
 // Baseball Batting Average
-
-function battingAvg(arr) {
+//  toFixed takes the number average and converts it to a string with exactly 3 decimal places.
+function	battingAvg(arr) {
 	let hits=0;
 	let atbats=0;
 	arr.forEach((e) => {

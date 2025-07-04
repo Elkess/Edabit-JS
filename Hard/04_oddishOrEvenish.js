@@ -1,7 +1,7 @@
 // https://edabit.com/challenge/r6TSNwkLZ2DgsoKiH
 // Oddish vs. Evenish
 
-function oddishOrEvenish(num) 
+function	oddishOrEvenish(num) 
 {
 	let res = 0;
 	while (num)

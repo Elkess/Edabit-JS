@@ -14,7 +14,7 @@
 //     return args.reduce((acc, arr) => acc.concat(arr), []);
 // }
 
-function concat(...args) {
+function    concat(...args) {
     return args.flat();
 }
 console.log(concat([1, 2],[5]));

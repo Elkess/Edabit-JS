@@ -1,8 +1,8 @@
 // https://edabit.com/challenge/ENWFBL4jbTgLbSqwS
 // Function Factory
 
-function makePlusFunction(baseNum) {
-	return (arg)=> baseNum + arg ;
+function	makePlusFunction(baseNum) {
+	return ((arg)=> baseNum + arg);
 }
 
 const plusTwo = makePlusFunction(2);

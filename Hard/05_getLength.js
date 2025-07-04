@@ -1,7 +1,7 @@
 // https://edabit.com/challenge/yXSTvCNen2DQHyrh6
 // Length of a Nested Array
 
-function getLength(arr)
+function	getLength(arr)
 {
 	let i = 0;
 	let count = 0;
@@ -16,4 +16,3 @@ function getLength(arr)
 }
 // console.log(getLength([1, [3, 4], [5]]));
 console.log(getLength([1, [2, [3, [4, [5, 6]]]]]));
-

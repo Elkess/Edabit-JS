@@ -1,7 +1,7 @@
 // https://edabit.com/challenge/48EJWLhF224na8po3
 // Which Generation Are You?
 
-function generation(x, y) {
+function	generation(x, y) {
 	const generations = {
 		"-3" : {m : "great grandfather", f : "great grandmother"},	
 		"-2" : {m : "grandfather", f : "grandmother"},		

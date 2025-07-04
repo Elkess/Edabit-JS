@@ -8,7 +8,7 @@
 // 	else if(l === "s")
 // 		return (4*num);
 // }
-function perimeter(l, num)
+function	perimeter(l, num)
 {
 	const s = 4 * num;
 	const c = (Math.PI).toFixed(2) * 2 * num ;

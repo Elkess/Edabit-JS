@@ -1,7 +1,8 @@
 // https://edabit.com/challenge/hzxN9bAebBPNqdQto
 // A Redundant Function
 
-function redundant(str) {
+function redundant(str)
+{
 	function func()
 	{
 		return (str);

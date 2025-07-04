@@ -1,5 +1,4 @@
 
-
 function ForEdaWhichIsLarger(f, g) {
   if (f() === g())
       return("neither");
@@ -8,6 +7,7 @@ function ForEdaWhichIsLarger(f, g) {
   else
       return("g");
 }
+
 function MyWhichIsLarger(f, g) {
   if (f().toString().length === g().toString().length)
       console.log("neither");

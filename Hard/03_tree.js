@@ -1,7 +1,7 @@
 // https://edabit.com/challenge/QeaCDhw3QrLwbeteD
 // Christmas Tree
 
-function tree(h) {
+function	tree(h) {
 	const hash = "#";
 	const space = " ";
 	let arr = [];

@@ -1,7 +1,7 @@
 // https://edabit.com/challenge/Hgb38yhWGwJCMHbRQ
 // Make a Circle with OOP
 
-class Rectangle {
+class	Rectangle {
 	constructor(sideA, sideB) {
 		this.sideA = sideA
 		this.sideB = sideB
@@ -11,7 +11,7 @@ class Rectangle {
 }
 
 
-	class Circle {
+	class	Circle {
 		constructor(radius) {
 			this.radius = radius;
 		}

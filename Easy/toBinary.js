@@ -1,4 +1,4 @@
 //Hex to Binary
-function toBinary(num) {
+function	toBinary(num) {
 	return (num.toString(2));
 }

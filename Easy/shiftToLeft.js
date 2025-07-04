@@ -1,8 +1,8 @@
-function shiftToLefts(x, y) {
+function	shiftToLefts(x, y) {
 	return (x * 2**y )
 }
 
-function shiftToLeft(x, y) {
+function	shiftToLeft(x, y) {
 	return (x << y )
 }
 
